@@ -1,0 +1,5 @@
+hokng:
+  image:  ashraf1abdelrasool/hokng
+  hostname: hokng
+  ports:
+    - "80:8080"
